@@ -1,0 +1,4 @@
+Número,Nombre
+1234567890,Juan Pérez
+0987654321,Ana López
+1122334455,Carlos García
